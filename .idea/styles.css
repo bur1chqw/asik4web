@@ -29,3 +29,6 @@ form {
 .navbar a:hover {
   color: darkblue;
 }
+textarea {
+  resize: none;
+}
